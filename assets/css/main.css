@@ -213,6 +213,13 @@ img {
   border-style: none;
 }
 
+img[alt*="center"] {
+  display:block;
+  margin: 0 auto;
+}
+img[alt*="medium"] {
+width:40%;
+}
 /**
  * Hide the overflow in IE.
  */
