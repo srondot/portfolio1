@@ -3,7 +3,7 @@ layout: post
 title: Conception of a Wireless System imitating a Pacemaker
 date: 2016-06-10 13:32:20 +0300
 description: A wireless system conception project made in my preparatory school (TIPE)# Add post description (optional)
-img: wireless_system.jpg # Add image post (optional)
+img: wireless_system.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Conception, Preparatory School, Arduino, R&D]
 ---
@@ -20,7 +20,7 @@ Electromagnetic communications are everywhere, in phones, gps, magnetic cards. T
 In order to start my project on solid basis, the 22th of December 2015, I visited a company specialised on pacemaker, called LivaNova (92). I met Renzo DAL MOLIN, the Director of Advanced Research in Livanova, he made me visit his company, and gave a lot of advice on how to imagine my system. He proposed to do a binary exchange thanks to Arduino tension. I really appreciated his help. 
 Then I went to the famous engineering school called Supelec in order to meet Anthony KOLAR, Teacher-Researcher at Centrale-Supélec, specialized in the design of integrated systems with high constraints applications in medical systems. Antony is brilliant and exactly the person I needed on my project. We worked together an afternoon in order to conceive the basis of my electronic system, explained after.
 
-![Livanova Visit--medium&center]({{site.baseurl}}/assets/img/visit_livanova.jpg)
+![Livanova Visit--medium&center]({{site.baseurl}}/assets/img/visit_livanova.png)
 <center>Livanova Visit</center>
 # My personal work
 My work was organised around 3 parts :
@@ -37,13 +37,13 @@ I put an equivalent system in different environments, including one imitating th
 # Pictures of my work
 
 
-![Electronic System]({{site.baseurl}}/assets/img/electronic_system2.jpg)
+![Electronic System]({{site.baseurl}}/assets/img/electronic_system2.png)
 <center>Me in front of the system sending a square signal</center>
 
 ![Electronic System --center]({{site.baseurl}}/assets/img/electronic_system3.svg){:width="100%"}
 <center>Plans of the system</center>
 
-![Electronic System 2]({{site.baseurl}}/assets/img/electronic_system.jpg)
+![Electronic System 2]({{site.baseurl}}/assets/img/electronic_system.png)
 <center>The wireless system</center>
 
 ![Blood Environment Simulation]({{site.baseurl}}/assets/img/wireless_system_environment.png)
