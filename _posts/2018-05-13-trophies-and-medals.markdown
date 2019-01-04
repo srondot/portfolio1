@@ -15,16 +15,18 @@ An independent project team was created by the school to manage this project. A 
 We established some strong relationships with our customer Neoma and our school. This project is covered by a written report and a speech.
 
 * [Download the Full Report][Trophies and Medals Report]
-* [Download the Support of the Presentation][Trophies and Medals Presentation]
+* [Download the Support of the Presentation][Trophies and Medals Presentation Support]
 
-[Trophies and Medals Report]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%Trophies%20and%20Medals%20-%20Report.pdf
-[Trophies and Medals Presentation]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%Trophies%20and%20Medals%20-%20Presentation.pdf
+[Trophies and Medals Report]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Report.pdf
+
+[Trophies and Medals Presentation Support]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Presentation%20Support.pdf
+
 
 Our partnership with Neoma was supported by our school. This project was celebrated by publishing an article into the school news.
 
 * [Download the Article][Trophies and Medals Article]
 
-[Trophies and Medals Article]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%20Reduction%20gear%20box%20-%20Article.pdf
+[Trophies and Medals Article]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Article.pdf
 
 # Make trophies
 
