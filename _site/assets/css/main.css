@@ -211,14 +211,13 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
+
 }
 
 img[alt*="center"] {
-  display:block;
-  margin: 0 auto;
+  
 }
 img[alt*="medium"] {
-width:40%;
 }
 /**
  * Hide the overflow in IE.
@@ -795,7 +794,8 @@ h1 {
 img {
   max-width: 100%;
   vertical-align: middle;
-  display: inline-block;
+  display:block;
+  margin: 0 auto;
 }
 
 img + em {
@@ -972,6 +972,7 @@ table tfoot td {
 }
 .sidebar img {
  width:100%;
+ display: inline-block !important;
 }
 .sidebar img.emoji {
  width:20px;
