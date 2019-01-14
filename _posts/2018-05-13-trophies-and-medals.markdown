@@ -10,7 +10,7 @@ tags: [Conception, ENSAM]
 This project was to conceive and build two trophies and 420 medals for different events.
 One trophy was ordered by Neoma Business School for a sports tournament called Ecricome. The second trophy and the 420 medals were aimed to reward the students of our school for a sports tournament called UAI 2018 organized by our student organization.
 
-An independent project team was created by the school to manage this project. A total of XXX working hours were allocated by the school along the year.
+An independent project team was created by the school to manage this project. A total of 120 working hours were allocated by the school along the year.
 
 We established some strong relationships with our customer Neoma and our school. This project is covered by a written report and a speech.
 
@@ -27,6 +27,8 @@ Our partnership with Neoma was supported by our school. This project was celebra
 * [Download the Article][Trophies and Medals Article]
 
 [Trophies and Medals Article]:{{site.baseurl}}/assets/download/Bourgeois%20Gaspard%20-%20Trophies%20and%20Medals%20-%20Article.pdf
+
+This project was a wonderful experience, I learned a lot of scientific knowledge, many technical advice on machines and the way to connect my knowledge to machine. All of it was performed in a peaceful environment, full of advice and team work. A great work and a great memory that we can be proud of.
 
 # Make trophies
 
