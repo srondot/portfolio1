@@ -3,7 +3,7 @@ layout: post
 title: Trophies and Medals
 date: 2018-05-13 18:22:20 +0300
 description: Conception and achievement of 2 sports trophies and 420 medals for Neoma Business School and ENSAM tournaments# Add post description (optional)
-img: trophies_medals.png # Add image post (optional)
+img: realise-sports-trophies-and-medals.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Conception, ENSAM]
 ---

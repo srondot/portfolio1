@@ -3,7 +3,7 @@ layout: post
 title: Code the website "Forum UNSA"
 date: 2012-12-06 18:22:20 +0300
 description:
-img: forum_unsa.png # Add image post (optional)
+img: website-forum-unsa.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Code, PHP, MySQL, HTML]
 ---

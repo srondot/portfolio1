@@ -3,7 +3,7 @@ layout: post
 title: Mechanical Reduction Gear Set
 date: 2017-04-06 13:32:20 +0300
 description: A Catia conception project made in my engineering school # Add post description (optional)
-img: external_plan.svg # Add image post (optional)
+img: mechanical-reduction-gear-set.svg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Conception, ENSAM]
 ---
@@ -32,7 +32,7 @@ So our work focus on how to chose each shape and each dimension of the assembly 
 * a system oil-tight
 
 # Conception
-Every constraint includes another one. For example, in order to have a system resistant to flexion, it imposes a minimum axle diameter, which impact the size of the seals, which impact the cost of the system. All of those constraints makes the work really interesting, it's important to respect every specification in order to have a functional system. 
+Every constraint includes another one. For example, in order to have a system resistant to flexion, it imposes a minimum axle diameter, which impact the size of the seals, which impact the cost of the system. All of those constraints makes the work really interesting, it's important to respect every specification in order to have a functional system.
 We inspired a lot from existing system, then we tried to simplify every shape, in order to win time in the building process.
 We imagined all the building process, we thought about simplifying this process for an eventual assembly-line worker. We decided to make an almost symetrical case made out of two similar parts. We made maximum of holes at the same size. We tried to put in place rounded size to simplify a future quality control.
 After reviewing the building process, we imagined the packaging, then the transportation, the installation, daily use and the maintenance.
@@ -47,23 +47,24 @@ Creating the system took a lot of time, but it helped us to find out a lot of pr
 
 The first CAO made us correct the initial conception of the case, we finally decided to restart a big part of the conception in order to have a better result.
 
-![Evolution Conception]({{site.baseurl}}/assets/img/version.png)
+![Evolution Conception]({{site.baseurl}}/assets/img/mechanical-reduction-gear-set/version.png)
 
 As shown in the picture, several changes made the result more resistant and easier to assemble.
 
 # Plans
 The last step was to create from our simulations 3 industrial drawings. The first plan is an external view of the system. The second plan presents different cross-sections of the system. And the last one is a nomenclature of it.
 
-![External Plan]({{site.baseurl}}/assets/img/external_plan.svg)
+![External Plan]({{site.baseurl}}/assets/img/mechanical-reduction-gear-set/external_plan.svg)
 
 <center>An external plan of the system</center>
 
-![Internal Plan]({{site.baseurl}}/assets/img/internal_plan.svg)
+![Internal Plan]({{site.baseurl}}/assets/img/mechanical-reduction-gear-set/internal_plan.svg)
 
 <center>An internal plan of the system</center>
-![Nomenclature Plan]({{site.baseurl}}/assets/img/nomenclature_plan.svg)
+
+![Nomenclature Plan]({{site.baseurl}}/assets/img/mechanical-reduction-gear-set/nomenclature_plan.svg)
 
 <center>A nomenclature plan of the system</center>
 
 # Conclusion
-This project was really great to discover the conception field. It also helps me to gain experience in CATIA V5.	
+This project was really great to discover the conception field. It also helps me to gain experience in CATIA V5.
