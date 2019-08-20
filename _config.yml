@@ -1,8 +1,6 @@
 title: Gaspard Bourgeois' Portfolio
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Discover some of my key projects through their relevant articles.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gaspard Bourgeois # add your name
 author-img: gaspard-bourgeois.jpg # add your photo
-about-author: I am a last year engineer student in Arts et Métiers School. Always curious to keep learning. # add description
+about-author: I am an early robotics engineer coming from Arts et Métiers school. I am eager to develop and share my technical knowledge collected along some of those experiences.  # add description
 social-twitter: # add your Twitter handle
 social-facebook: "gaspard.bourgeois.35"# add your Facebook handle
 social-github: "Gaspard-Bourgeois/gaspard-bourgeois.github.io/" # add your Github handle
